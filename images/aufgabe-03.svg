@@ -1,3 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="500" version="1.1" width="500">
+<rect height="100" width="100" x="200" y="200" />
+<circle
+    cx="250"
+    cy="250"
+    fill="aliceblue"
+    r="50"
+    stroke="red"
+    stroke-width="10"
+  />
 
 </svg>
